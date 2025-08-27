@@ -14,12 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioMiguel19&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMiguel19&layout=compact&theme=radical)  
-
----
-
 ## 🚀 Featured Projects
 - **[Meu Melhor Amigo – Adote um animalzinho](https://play.google.com/store/apps/details?id=br.com.organizze.projeto)** – Native Android app for pet adoption  
 - **[Carty – Shopping List](https://play.google.com/store/apps/details?id=br.com.organizze.carty)** – Flutter app for groceries management  
@@ -46,6 +40,20 @@
 - **Junior Commerce Developer – FH** *(Jul 2019 – Jul 2020)*  
 - **Development Trainee (SAP Hybris) – FH** *(Sep 2018 – Jun 2019)*  
 - **Research Trainee – UTFPR** *(Mar 2018 – Aug 2018)*  
+
+---
+
+## 🔒 Private Work
+Most of my professional work is private, but here’s what I focus on:
+- Large-scale **microservices** with **Kotlin/Java + Spring Boot**
+- **AWS** ecosystem (SQS, Lambda, Athena, DynamoDB, Redis, etc.)
+- **Clean Architecture**, observability (Datadog, Dynatrace), event-driven design
+
+---
+
+## 📊 GitHub Stats
+![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioMiguel19&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMiguel19&layout=compact&theme=radical)  
 
 ---
 
